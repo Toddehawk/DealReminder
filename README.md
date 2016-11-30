@@ -9,3 +9,12 @@ Da ich selbst nur ein Freizeit Entwickler bin wird der Code des Scripts vielleic
 
 Mfg,
 Euer Spegeli
+
+# News & Updates:
+<b>30.11.2016 / 10:04Uhr:</b><br />
+Ich hab jetzt damit begonnen das ganze in C# weiter zu Entwickeln.<br />
+Das bringt folgende Vorteile (gegenüber Xampp/PHP/MySQL) für den Endnutzer mit sich:
+* Einfacher zu "Installieren/Einzustellen"
+* Schönere Benutzeroberfläche
+
+![V1.0](http://i.epvpimg.com/QJFdh.png)
